@@ -1,0 +1,4 @@
+LIBRARY "DLLGenerator"  
+EXPORTS  
+     Add @1  
+     Mul @2  
